@@ -9,7 +9,7 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
 
 <h4>CONTATO:</h4>
 <p><strong>Telefone:</strong> <a href="tel:+5511933390717">+55 11 94662-6978</a></p>
-<p><strong>E-mail:</strong> <a href="mailto:mayaramota2003@gmail.com">mayaramota2003@gmail.com</a></p>
+<p><strong>E-mail:</strong> <a href="mailto:devmayaramota@gmail.com">devmayaramota@gmail.com</a></p>
 <br>
 </div>
 
@@ -27,12 +27,14 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
   <img align="center" alt="Mayara-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Mayara-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Mayara-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+  <img align="center" alt="Mayara-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  <img align="center" alt="Mayara-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
 </div>
   
 <hr/>
 <div> 
-  <a href = "mailto:imayaramota@gmail.com">
+  <a href = "mailto:devmayaramota@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/imayaramota" target="_blank">
