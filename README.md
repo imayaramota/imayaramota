@@ -29,8 +29,6 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
           
           
 </div>
- 
-## Contato:
 <hr/>
 <div> 
   <a href = "mailto:devmayaramota@gmail.com">
