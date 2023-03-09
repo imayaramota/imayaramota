@@ -27,6 +27,9 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
   <img align="center" alt="Mayara-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mayara-Figma" height="40" width="50" src="https://img.icons8.com/color/256/figma.png" />
   <img align="center" alt="Mayara-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+  
+  <img align="center" alt="Mayara-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+          
           
 </div>
   
