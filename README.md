@@ -29,7 +29,8 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
           
           
 </div>
-  
+ 
+## Contato:
 <hr/>
 <div> 
   <a href = "mailto:devmayaramota@gmail.com">
@@ -37,9 +38,6 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
   </a>
   <a href="https://www.linkedin.com/in/imayaramota" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://www.instagram.com/imayaramota/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
   
 </div>
