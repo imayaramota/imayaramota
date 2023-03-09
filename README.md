@@ -29,7 +29,7 @@ Tenho conhecimentos em Desenvolvimento Front-end, considero-me com um perfil din
           
           
 </div>
-
+<hr>
 <div> 
   <a href = "mailto:devmayaramota@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
